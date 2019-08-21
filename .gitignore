@@ -1,0 +1,4 @@
+model_MNIST_CNN.pt
+model_MNIST_CNN_.pt
+test.csv
+train.csv
