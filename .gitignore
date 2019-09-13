@@ -2,6 +2,6 @@ model_MNIST_CNN.pt
 model_MNIST_CNN_.pt
 test.csv
 train.csv
-MNIST_torch_ParallelCombinatin_Exercises
+MNIST_torch_ParallelCombinatin_Exercises.ipynb
 MNIST_torch_MLP_Exercise.ipynb
 fc2_weight.csv
